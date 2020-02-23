@@ -1,6 +1,2 @@
-*.pyc
-*.swp
-.DS_Store
-answers
-.hg
-.idea
+.vscode
+__pycache__/
